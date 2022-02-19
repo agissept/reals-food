@@ -1,3 +1,8 @@
+
+    // Nama: Agista Septiyanto
+    // NIM: 10121917
+    // Kelas: IF-9
+ 
 const listMenu = [{
         name: "Ratatouille",
         image: "assets/image/menu1.png",
